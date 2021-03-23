@@ -18,7 +18,7 @@ do {
         "t" => $t,
         "_tb_token_" => $tb_token,
         "tag" => 29,
-        "recordId" => '2178600493',
+        "recordId" => '',
         "reqParams" => '{"adzoneName":"渠道'. $num .'"}',
         "sceneCode" => 'adzone_common'
     );
